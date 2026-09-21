@@ -204,17 +204,50 @@ The Import feature validates the backup before replacing the current local data.
 
 ## Installation
 
-There is no build process.
+Love Dialects does not require an app store, account, or installation program. It runs directly in your web browser.
 
-The entire app can run from a single file:
+### Use Online
 
-```text
-index.html
-```
+Open the Love Dialects GitHub Pages website in any modern browser.
 
-### Run Locally
+Your family profiles, Love Dialect results, Love Clues, and Favorites are stored locally on your device.
 
-Download `index.html` and open it in a modern browser.
+> **Important:** Clearing your browser's website data may erase your saved Love Dialects information. Use **Backup & Restore** inside the app to save a copy of your family data.
+
+---
+
+### Add Love Dialects to Your iPhone Home Screen
+
+Love Dialects can be saved to your iPhone Home Screen so it opens more like a regular app.
+
+1. Open the Love Dialects website in **Safari**.
+2. Tap the **Share** button.
+3. Scroll down and tap **Add to Home Screen**.
+
+   * If you do not see it, scroll to the bottom, choose **Edit Actions**, and add **Add to Home Screen**.
+4. Turn on **Open as Web App** if that option appears.
+5. Make sure the name says **Love Dialects**.
+6. Tap **Add**.
+
+The Love Dialects heart-flower icon should now appear on your iPhone Home Screen.
+
+Tap the icon anytime to open the app.
+
+### Your Data Stays on Your Device
+
+Installing Love Dialects on your Home Screen does not create an online account or upload your family profiles.
+
+Your information remains stored in that browser on that device.
+
+If you want to move your profiles to another phone or keep a backup:
+
+1. Open **Backup & Restore** in Love Dialects.
+2. Choose **Export Backup**.
+3. Save the JSON backup file somewhere safe.
+4. On another device, open Love Dialects and choose **Import Backup**.
+
+Each device keeps its own local copy unless you manually move a backup between them.
+
 
 ---
 
